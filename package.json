@@ -1,0 +1,21 @@
+{
+	"name": "cypress-tutorial",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"runner": "cypress open"
+	},
+	"keywords": [
+		"cypress",
+		"javascript",
+		"typescript",
+		"testing"
+	],
+	"author": "Caia Chuang",
+	"license": "ISC",
+	"devDependencies": {
+		"cypress": "^10.8.0",
+		"typescript": "^4.8.3"
+	}
+}
